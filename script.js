@@ -46,7 +46,7 @@
   document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
 
   /* ---- Animated stat counters ---- */
-  const counters = document.querySelectorAll('.stat__num');
+  const counters = document.querySelectorAll('.stat__num, .big-num');
   const cio = new IntersectionObserver(
     (entries) => {
       entries.forEach((e) => {
