@@ -78,7 +78,7 @@
       rating: 5,
       when: '2 months ago',
       text: 'We have used Normmed cervical plate and PEEK cage systems for over two years. Excellent build quality, reliable instrumentation and very responsive technical support.',
-      color: '#0b3d91',
+      color: '#be1522',
     },
     {
       name: 'Elena Rodríguez',
@@ -86,15 +86,15 @@
       rating: 5,
       when: '4 months ago',
       text: 'A pleasure to work with as a distribution partner. Wide catalog, fast lead times and flexibility on customized production that competitors simply cannot match.',
-      color: '#0fb6a8',
+      color: '#0a2c3d',
     },
     {
       name: 'Ahmet Yıldız',
       meta: 'Local Guide · Ankara · 22 reviews',
       rating: 5,
       when: '1 month ago',
-      text: 'Modern factory in İvedik OSB. Impressive R&D and machining capability. The antibacterial silver-ion coated implants are genuinely innovative.',
-      color: '#1466d6',
+      text: 'Modern factory in İvedik OSB. Impressive R&D and machining capability. As the only maker of silver-coated spinal implants in Turkey, their systems are genuinely innovative.',
+      color: '#707070',
     },
     {
       name: 'Beatrice Laurent',
@@ -102,7 +102,7 @@
       rating: 4,
       when: '6 months ago',
       text: 'Instrument sets are well organized and clearly labeled. Sterilization trays are intuitive. Would love even more language options in the documentation.',
-      color: '#6a7be0',
+      color: '#a01020',
     },
     {
       name: 'Carlos Mendes',
@@ -110,7 +110,7 @@
       rating: 5,
       when: '3 weeks ago',
       text: 'The trauma plating range is comprehensive and the anatomic fit is excellent. Patients recover well and the hardware performs exactly as specified.',
-      color: '#0b6e5a',
+      color: '#be1522',
     },
     {
       name: 'Dr. Sarah Mitchell',
@@ -118,7 +118,7 @@
       rating: 5,
       when: '5 months ago',
       text: 'Attended a workshop on their MIS thoracolumbar system. Thoughtful, surgeon-driven design. Communication from the Normmed team was first-class throughout.',
-      color: '#3a52b5',
+      color: '#0a2c3d',
     },
   ];
 
