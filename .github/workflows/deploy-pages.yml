@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["claude/norm-med-redesign-maps-m0ly3c"]
+    branches: ["main", "claude/norm-med-redesign-maps-m0ly3c"]
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ permissions:
 # Allow one concurrent deployment; cancel in-progress runs for newer pushes.
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   deploy:
